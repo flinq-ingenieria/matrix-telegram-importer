@@ -1,0 +1,10 @@
+#
+# Telegram chat ID -> Matrix room ID
+#
+# Example:
+# "123456789": "!abcdefg:example.com"
+#
+# Leave this file empty if you want the importer to create rooms automatically
+# and persist successful mappings after the run.
+#
+{}

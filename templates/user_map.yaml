@@ -1,0 +1,15 @@
+#
+# Telegram user ID -> explicit Matrix user mapping
+#
+# Example:
+# "123456789":
+#   mxid: "@alice:example.com"
+#   displayname: "Alice Example"
+#
+# If a Telegram user is not listed here, the importer generates a local MXID
+# like:
+#   @tg_alice_example_123456789:example.com
+#
+# This template is meant for manual curation.
+#
+{}
